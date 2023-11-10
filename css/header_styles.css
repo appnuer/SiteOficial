@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  min-height: 837px;
+  background-image: url("../img/background/background_header.svg"); /* Substitua pelo caminho correto para o SVG */
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-origin: border-box;
+  background-attachment: fixed;
+}
+
+.header img {
+  margin-top: 189px;
+  margin-left: 256px;
+}
+
+.header h1 {
+  width: 413px;
+  color: #2c2c2a;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 300px;
+  margin-top: 37px;
+}

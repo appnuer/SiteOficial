@@ -1,0 +1,46 @@
+.bureaucracy {
+  display: flex;
+  justify-content: center;
+}
+
+.bureaucracy-block {
+  margin-top: 232px;
+  display: flex;
+}
+
+.bureaucracy-block-text {
+  width: 477px;
+  color: #2c2c2a;
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}
+
+.bureaucracy-block img {
+  border-radius: 20px;
+}
+
+.bureaucracy-block-text {
+  padding: 0 68px;
+}
+
+.bureaucracy-block-text h1 {
+  color: #2c2c2a;
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 36px;
+}
+
+.bureaucracy-block-text span {
+  color: #2c2c2a;
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}

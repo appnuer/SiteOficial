@@ -1,0 +1,31 @@
+/* Fonte Regular */
+@font-face {
+  font-family: "Gilroy";
+  src: url("fonts/Gilroy-Regular.ttf") format("truetype");
+}
+
+/* Fonte Bold */
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("fonts/Gilroy-Bold.ttf") format("truetype");
+}
+
+body {
+  background: radial-gradient(367.5% 141.42% at -0% 0%, #ededed 0%, #fff 100%);
+  background-repeat: no-repeat;
+  font-family: "Gilroy", sans-serif;
+  color: #3b454f;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+span {
+  margin: 0;
+}
+
+hr {
+  background-color: #ccd1d6;
+  height: 1px;
+  border: none;
+}

@@ -1,0 +1,173 @@
+.business {
+  margin-top: 232px;
+  background: #3b454f;
+  padding: 133px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.business-card {
+  color: #3b454f;
+  font-family: "Gilroy";
+  display: flex;
+}
+
+.business-card-one {
+  width: 616px;
+  height: 744px;
+  flex-shrink: 0;
+  border-radius: 32px;
+  border: 1px solid var(--grey-3, #ccd1d6);
+  background: var(--grey-1, #f2f5f8);
+  padding: 55px 77px 0 57px;
+}
+
+.business-card-one h1 {
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 344px;
+  margin-bottom: 24px;
+}
+
+.business-card-one strong {
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.business-card-one img {
+  position: absolute;
+  transform: translateX(0%);
+  transform: translateY(4.4%);
+}
+
+.business-card-one span {
+  margin-bottom: 10px;
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}
+
+.business-card-one-span {
+  width: 482px;
+}
+
+.business-card-model {
+  flex-shrink: 0;
+  border-radius: 32px;
+  border: 1px solid var(--grey-3, #ccd1d6);
+  background: var(--grey-1, #f2f5f8);
+  margin-left: 14px;
+  margin-bottom: 12px;
+}
+
+.business-card-model-img {
+  display: flex;
+}
+
+.business-card-model {
+  padding: 55px 58px 55px 55px;
+}
+
+.business-card-model h1 {
+  width: 503px;
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 32px;
+}
+
+.business-card-model strong {
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.business-card-model-imgcard {
+  width: 155px;
+  height: 212px;
+  border-radius: 16px;
+  background: #fff;
+  text-align: center;
+  margin-left: 20px;
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}
+
+.business-card-model-imgcard img {
+  width: 155px;
+  height: 170px;
+  border-radius: 20px 20px 0 0;
+}
+
+.business-card-model-two {
+  flex-shrink: 0;
+  border-radius: 32px;
+  border: 1px solid var(--grey-3, #ccd1d6);
+  background: var(--grey-1, #f2f5f8);
+  margin-left: 14px;
+  padding: 55px 0 0 55px;
+}
+
+.business-card-model-two h1 {
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 400px;
+  margin-bottom: 35px;
+}
+
+.business-card-model-two span {
+  color: var(--grey-7, #3b454f);
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.business-card-model-two-card {
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  width: 468px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background: var(--branco, #fff);
+  box-shadow: 0px 4px 14px -7px rgba(0, 0, 0, 0.25);
+  padding: 19px 0 16px 23px;
+  margin-bottom: 19px;
+}
+
+.business-card-model-two-card-search {
+  margin-left: 27px;
+  display: grid;
+  gap: 4px;
+}
+
+.business-card-model-two-card-bar {
+  margin-bottom: -5px;
+}

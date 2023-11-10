@@ -1,0 +1,34 @@
+.benefits {
+  background: var(--fundo, linear-gradient(134deg, #6519fd 0%, #ff6bff 100%));
+  padding: 137px 341px;
+  display: flex;
+}
+
+.benefits-card {
+  width: 366px;
+  text-align: center;
+  align-items: center;
+  margin-left: 70px;
+}
+
+.benefits-card h1 {
+  color: #fff;
+  text-align: center;
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.benefits-card span {
+  color: #fff;
+  text-align: center;
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}

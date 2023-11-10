@@ -1,0 +1,20 @@
+.discover {
+  margin-top: 97px;
+  margin-bottom: 111px;
+  justify-items: center;
+  text-align: center;
+}
+
+.discover h1 {
+  color: #2c2c2a;
+  text-align: center;
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.discover img {
+  margin-top: 59px;
+}

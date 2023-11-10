@@ -1,0 +1,65 @@
+.about_we {
+  background: var(--fundo, linear-gradient(134deg, #6519fd 0%, #ff6bff 100%));
+  min-height: 800px;
+  display: flex;
+  align-items: center;
+}
+
+.about_we_title {
+  width: 125px;
+  border-radius: 62px;
+  border: 1px solid #f2f5f8;
+  display: inline-flex;
+  padding: 10px 19px;
+  justify-content: center;
+  align-items: center;
+  gap: 19px;
+  color: #f2f5f8;
+  font-family: "Gilroy-Bold";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 300px;
+}
+
+.about_we h1 {
+  color: #f2f5f8;
+  font-family: "Gilroy";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  margin-left: 300px;
+  margin-top: 27px;
+  margin-bottom: 10px;
+}
+
+.about_we strong {
+  color: #f2f5f8;
+  font-family: "Gilroy-Bold";
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.about_we_text {
+  width: 569px;
+  margin-left: 300px;
+  margin-top: 10px;
+}
+.about_we_text span {
+  color: #f2f5f8;
+  font-family: "Gilroy";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px; /* 218.75% */
+}
+
+.about_we_img img {
+  position: relative;
+  width: 100%;
+}
